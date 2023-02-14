@@ -94,6 +94,7 @@ ul li a:hover{
     border-right: none;
     font-size: 15px;
     border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 .btn:focus{
